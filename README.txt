@@ -1,12 +1,12 @@
-BlocklyDuino
+Sucre4Kids
 =======================
 
 Introduction
 -----------------
 
-BlocklyDuino is based on Blockly, the web-based, graphical programming editor. Provide language blocks and code generators for arduino programming.
+Sucre4Kids is based on Blockly, the web-based, graphical programming editor. Provide language blocks and code generators for arduino programming.
 
-BlocklyDuino also support Grove blocks to easily get started with microcontroller-based experimentation and learning.
+Sucre4Kids also support Grove blocks to easily get started with microcontroller-based experimentation and learning.
 
 
 * Blockly https://developers.google.com/blockly/
